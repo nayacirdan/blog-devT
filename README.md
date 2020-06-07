@@ -1,3 +1,5 @@
+#### Deployed project: https://blog-dev-t.now.sh/
+
 ###### How to run this project on local server
 
 - Clone this project;
@@ -6,3 +8,4 @@
 
 To build project:
 - `npm run build`;
+

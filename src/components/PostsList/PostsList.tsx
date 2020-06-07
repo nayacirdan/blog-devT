@@ -20,8 +20,10 @@ const PostInList = styled.div`
     box-sizing: border-box;
     margin: 10px;
 
-    &:hover a {
-        color: #212121;
+    @media screen and (max-width: 720px) {
+        width: 100%;
+        margin: 0 0 10px 0;
+        padding: 10px;
     }
 
     & a {

@@ -17,7 +17,7 @@ const PostCardWrapper = styled.div`
         word-wrap: normal;
         white-space: nowrap;
         overflow: hidden;
-        padding: 5px;
+        padding: 5px 5px 5px 0;
         text-overflow: ellipsis;
     }
 `;
