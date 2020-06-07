@@ -1,0 +1,4 @@
+export const FETCH_POSTS_CLIENT = 'FETCH_POSTS_CLIENT';
+export const GET_POSTS_SERVER = 'GET_POSTS_SERVER';
+export const DELETE_POST = 'DELETE_POST';
+export const ADD_NEW_POST = 'ADD_NEW_POST';
